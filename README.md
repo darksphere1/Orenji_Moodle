@@ -1,5 +1,5 @@
 # Orenji_Moodle
-Plugin for Wordpress using Moodle Data
+Plugin para Wordpress utilizando dados do Moodle
 
 Este Plugin irá realizar consultas ao BD do Moodle, e trazer informações para o Wordpress.
 
