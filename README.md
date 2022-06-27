@@ -11,4 +11,4 @@ Existe uma tabela que foi introduzida ao bd do moodle com informações dos curs
 
 Esta tabela é alimentada por importação de dados de planilhas de excel e cadastramos, usando ela, cursistas no sistema do Moodle.
 
-`id`.`mdl_enrol` está diretamente ligado ao `id_curso`.`mdl_user_preinsc` onde enrol = "manual".
+`id`.`mdl_enrol` está diretamente ligado ao `id_curso`.`mdl_user_preinsc` onde `enrol`.`mdl_enrol` = "manual".
